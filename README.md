@@ -10,11 +10,11 @@
 ## How to use this command
 
 ##### Get
-...
+```
 $  wallsh -g
-...
+```
 
 ##### Set 
-...
+```
 $ wallsh -s /Users/jaumesegarra/Pictures/world.png
-...
+```
